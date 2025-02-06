@@ -1,0 +1,188 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/info.png" group-title="Daerah", iptv.urfan.web.id
+https://ythls-v2.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/info.png" group-title="Daerah", Playlist Ini Gratis
+https://ythls-v2.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/info.png" group-title="Daerah", Playlist Ini Tanpa Donasi
+https://ythls-v2.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/info.png" group-title="Daerah", Tidak Boleh Diperjualbelikan
+https://ythls-v2.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/info.png" group-title="Daerah", Tidak Boleh Dibundling Untuk Jualan
+https://ythls-v2.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Ambon
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Nusa Tenggara Barat
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Nusa Tenggara Timur
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sumatera Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sumatera Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Sumatera Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png" group-title="Daerah", TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png" group-title="Daerah", Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/aditv.png" group-title="Daerah", ADI TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/madutv.png" group-title="Daerah", Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/inspiratv.png" group-title="Daerah", Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tatv.png" group-title="Daerah", TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvku.png" group-title="Daerah", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvtabalong.png" group-title="Daerah", TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/ugtv.png" group-title="Daerah", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jtv.png" group-title="Daerah", JTV
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/kstv.png" group-title="Daerah", Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/saktitv.png" group-title="Daerah", Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/lingkartv.png" group-title="Daerah", Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/dutatv.png" group-title="Daerah", Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/simpang5tv.png" group-title="Daerah", Simpang5 TV
+http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png" group-title="Daerah", BMSTV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/kawanuatv.png" group-title="Daerah", Kawanua TV
+http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/brtv.png" group-title="Daerah", BRTV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rctv.png" group-title="Daerah", RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png" group-title="Daerah", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jpm.png" group-title="Daerah", JPMTV
+http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/hbtv.png" group-title="Daerah", Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/bandungtv.png" group-title="Daerah", Bandung TV
+http://202.150.153.254:443/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/jitv.png" group-title="Daerah", JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/radartv.png" group-title="Daerah", Radar TV
+http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tegartv.png" group-title="Daerah", TegarTV Jogja
+http://wms.klikhost.com/tegarjogja/tegarjogja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tegartv.png" group-title="Daerah", TegarTV Lampung
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
